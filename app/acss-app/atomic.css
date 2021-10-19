@@ -1,0 +1,42 @@
+.Bdrs\(3px\) {
+  border-radius: 3px;
+}
+.Bgc\(\#0280ae\.4\) {
+  background-color: rgba(2,128,174,.4);
+}
+.C\(\#2c3e50\) {
+  color: #2c3e50;
+}
+.C\(\#fff\) {
+  color: #fff;
+}
+.D\(f\) {
+  display: flex;
+}
+.Flxg\(1\) {
+  flex-grow: 1;
+}
+.Fld\(c\) {
+  flex-direction: column;
+}
+.Ai\(c\) {
+  align-items: center;
+}
+.Jc\(c\) {
+  justify-content: center;
+}
+.Lh\(1\.5\) {
+  line-height: 1.5;
+}
+.Mt\(30px\) {
+  margin-top: 30px;
+}
+.Maw\(400px\) {
+  max-width: 400px;
+}
+.P\(15px\) {
+  padding: 15px;
+}
+.Ta\(c\) {
+  text-align: center;
+}

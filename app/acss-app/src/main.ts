@@ -1,4 +1,5 @@
 import './style.css'
+import '../atomic.css'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 

@@ -2,7 +2,8 @@
   "name": "acss-app",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --host 0.0.0.0",
+    "dev": "vite --host 0.0.0.0 & npm run build:css",
+    "build:css": "atomizer -o atomic.css index.html -w index.html",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
